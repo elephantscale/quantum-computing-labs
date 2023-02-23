@@ -19,6 +19,14 @@
 
 * After the activation of your environment Qiskit, you need to execute some commands to install Qiskit into your environment.
 
+## STEP 0
+
+* If you have not already done so, switch to the right environment
+
+```shell
+conda activate Qiskit
+```
+
 ## STEP 1 
 * Execute this command
 
