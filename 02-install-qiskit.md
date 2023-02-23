@@ -1,0 +1,51 @@
+# Lab 02
+
+## Overview
+
+* Setting up for Qiskit
+
+### Depends On
+
+* 01-setup
+
+
+### Run time
+
+* 5-10 min
+
+## Lob goals
+
+* Installing IBM Qiskit and its Applications in Anaconda Environment
+
+* After the activation of your environment Qiskit, you need to execute some commands to install Qiskit into your environment.
+
+## STEP 1 
+* Execute this command
+
+```shell
+pip install qiskit
+```
+
+## STEP 2
+* After Qiskit is installed, execute this command
+
+```shell
+pip install qiskit[visualization]
+```
+
+## STEP 3
+* After this you need to install the various Qiskit applications. The first is the Machine Learning.
+
+```shell
+pip install qiskit[machine-learning]
+```
+
+## STEP 4
+
+* Install Nature for Chemistry applications.
+
+```shell
+pip install qiskit[nature]
+```
+
+###  With all the steps covered, Qiskit is now successfully installed in your environment.
