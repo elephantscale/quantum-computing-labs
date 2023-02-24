@@ -1,3 +1,14 @@
-# Anaconda install
+# Quantum computing labs install
 
-## Installing Anaconda IDE
+### Step 1) Install Anaconda with the GUI installer
+
+* Download the Anaconda installer for your operating system from [here](https://www.anaconda.com/products/individual#Downloads). We recommend using the graphical installer.
+* Last install step: say **"yes"** to initializing Conda
+
+
+
+* If it still cannot recognize python, you can try this:
+
+```shell
+sudo apt install python-is-python3
+```
