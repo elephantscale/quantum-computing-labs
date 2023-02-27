@@ -1,3 +1,5 @@
+# Lab 01
+
 # Quantum computing labs install
 
 ### Step 1) Install Anaconda with the GUI installer
