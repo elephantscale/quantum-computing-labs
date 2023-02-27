@@ -6,8 +6,7 @@
 
 ### Depends On
 
-* 01-setup, 02-install-quiskit
-
+* 01-setup, 02-install-qiskit
 
 ### Run time
 
