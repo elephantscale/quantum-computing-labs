@@ -1,0 +1,5 @@
+qiskit
+qiskit[visualization]
+qiskit[machine-learning]
+qiskit[nature]
+
