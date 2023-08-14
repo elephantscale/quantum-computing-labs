@@ -5,7 +5,7 @@
 * [Recommended books](https://shmsoft.blogspot.com/2023/04/my-favorite-books-on-quantum-phyrics.html)
 * IBM Certificate preparation is [here](5-pocketbook/README.md) 
 
-# Prepare-for-Qiskit-Exam
+# Prepare for Qiskit exam
 
 * [Qiskit Developer Certification Syllabus](https://learn.qiskit.org/syllabus/S9P-7GP): Study guide to prepare for the Fundamentals of Quantum Computation Using Qiskit v0.2X Developer certification
 
