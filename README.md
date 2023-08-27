@@ -12,3 +12,5 @@
 * [Study Guide](https://slides.com/javafxpert/prep-qiskit-dev-cert-exam): Use this easy-to-follow web-based slide deck to help you prepare for this exam. The guide is free and can be viewed immediately.
 
 * [IBM Tutorial](https://qiskit.org/learn)
+
+* [Udemy practice exam](https://www.udemy.com/course/practice-exams-ibm-quantum-developer-certification-exam/)
